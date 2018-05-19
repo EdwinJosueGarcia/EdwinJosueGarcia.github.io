@@ -16,6 +16,7 @@
 #navbarNavAltMarkup{
     display: flex;
     justify-content: center;
+    
 }
 .rfk{
     display:flex;
@@ -24,4 +25,24 @@
 .first{
     display: flex;
     justify-content: center;
+}
+#intro{
+    display: flex;
+    padding: 30px;
+    color: white;
+
+}
+.me{
+    padding: 10px;
+}
+.about{
+border: none;
+padding:20px;
+color:olivedrab;
+background-color: whitesmoke;
+
+}
+#font{
+    font-family: cursive;
+    color: black;
 }
