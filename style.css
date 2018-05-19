@@ -1,0 +1,27 @@
+.container{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+}
+.header{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 63.6px;
+}
+#navbarNav{
+    display: flex;
+    justify-content: space-between;
+}
+#navbarNavAltMarkup{
+    display: flex;
+    justify-content: center;
+}
+.rfk{
+    display:flex;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    justify-content: center;
+}
